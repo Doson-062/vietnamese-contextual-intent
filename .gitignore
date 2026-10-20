@@ -1,0 +1,36 @@
+# Bí mật: chứa token
+.mcp.json
+.env
+
+# Repo MultiWOZ gốc (453 MB, có .git riêng) — tải riêng từ github.com/budzianowski/multiwoz
+multiwoz/
+
+# Tài liệu và ghi chú cá nhân: không đưa lên repo
+docs/
+tasks/
+CLAUDE.md
+
+# Dữ liệu: chỉ đưa bộ dữ liệu chốt và các nguồn để tái lập nó
+data/**
+!data/**/
+!data/**/.gitkeep
+!data/raw/multiwoz_db/*.json
+!data/interim/entity_map.json
+!data/interim/street_map.json
+!data/processed_v3/*.jsonl
+!data/processed_v5/**
+
+# Mô hình và kết quả sinh ra (chạy lại code là có)
+models/*
+!models/.gitkeep
+reports/**
+!reports/**/
+!reports/figures/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.lock

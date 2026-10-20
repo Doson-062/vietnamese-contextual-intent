@@ -1,0 +1,2270 @@
+{
+ "abbey pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Bắc Lam"
+ },
+ "abbey pool and astroturf": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Bắc Lam"
+ },
+ "abbey pool and astroturf pitch": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Bắc Lam"
+ },
+ "adc": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Mai Hỷ"
+ },
+ "adc theatre": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Mai Hỷ"
+ },
+ "all saint church": {
+  "slot": "attraction-name",
+  "vi": "Công trình Sen Thủy"
+ },
+ "all saint's church": {
+  "slot": "attraction-name",
+  "vi": "Công trình Sen Thủy"
+ },
+ "all saints church": {
+  "slot": "attraction-name",
+  "vi": "Công trình Sen Thủy"
+ },
+ "all saints church's": {
+  "slot": "attraction-name",
+  "vi": "Công trình Sen Thủy"
+ },
+ "ballare": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Bích Sen"
+ },
+ "botanic gardens": {
+  "slot": "attraction-name",
+  "vi": "Công viên Hải Bắc"
+ },
+ "botanical gardens at cambridge university": {
+  "slot": "attraction-name",
+  "vi": "Công viên Sơn Vân"
+ },
+ "broughton house gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Thủy Đào"
+ },
+ "byard art": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Đào Tùng"
+ },
+ "byard art's": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Đào Tùng"
+ },
+ "cafe jello": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Ngọc Xuân"
+ },
+ "cafe jello gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Ngọc Xuân"
+ },
+ "cafe jello museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Mai Cúc"
+ },
+ "camboats": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Hạ Xuân"
+ },
+ "cambridge and country folk museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Ngọc Bách"
+ },
+ "cambridge and county folk museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Ngọc Bách"
+ },
+ "cambridge country folk museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Ngọc Bách"
+ },
+ "cambridge art": {
+  "slot": "attraction-name",
+  "vi": "Phòng tranh Minh Vân"
+ },
+ "cambridge arts theatre": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Cúc Tinh"
+ },
+ "cambridge arts": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lâm An"
+ },
+ "cambridge artworks": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lâm An"
+ },
+ "cambridge book and print gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Phúc Lan"
+ },
+ "cambridge contemporary art": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Sen Tài"
+ },
+ "cambridge contemporary art museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Sen Tài"
+ },
+ "cambridge temporary art": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Sen Tài"
+ },
+ "cambridge corn": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Sen Phúc"
+ },
+ "cambridge corn exchange": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Sen Phúc"
+ },
+ "cambridge museum of tech": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Cúc Quang"
+ },
+ "cambridge museum of technology": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Cúc Quang"
+ },
+ "cambridge punter": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Phong Hồng"
+ },
+ "cambridge university botanic garden": {
+  "slot": "attraction-name",
+  "vi": "Công viên Thủy Thanh"
+ },
+ "cambridge university botanic gardens": {
+  "slot": "attraction-name",
+  "vi": "Công viên Thủy Thanh"
+ },
+ "castle galleries": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Tài Vân"
+ },
+ "cherry hinton hall": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Nam Trúc"
+ },
+ "cherry hinton hall and grounds": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Nam Trúc"
+ },
+ "cherry hinton village": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Sen Nguyệt"
+ },
+ "cherry hinton village centre": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Sen Nguyệt"
+ },
+ "cherry hinton water park": {
+  "slot": "attraction-name",
+  "vi": "Công viên Quang Sen"
+ },
+ "cherry hinton water play": {
+  "slot": "attraction-name",
+  "vi": "Công viên Quang Sen"
+ },
+ "cherry hinton water play park": {
+  "slot": "attraction-name",
+  "vi": "Công viên Quang Sen"
+ },
+ "christ college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Vân Lam"
+ },
+ "christ's": {
+  "slot": "attraction-name",
+  "vi": "Học viện Vân Lam"
+ },
+ "christ's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Vân Lam"
+ },
+ "christ's college's": {
+  "slot": "attraction-name",
+  "vi": "Học viện Vân Lam"
+ },
+ "christi's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Vân Lam"
+ },
+ "christs college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Vân Lam"
+ },
+ "christs": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Kim Bắc"
+ },
+ "churchhill college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Xuân Lân"
+ },
+ "churchill": {
+  "slot": "attraction-name",
+  "vi": "Học viện Xuân Lân"
+ },
+ "churchill college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Xuân Lân"
+ },
+ "churchill college's": {
+  "slot": "attraction-name",
+  "vi": "Học viện Xuân Lân"
+ },
+ "cinema cinema": {
+  "slot": "attraction-name",
+  "vi": "Rạp chiếu phim Kim Sen"
+ },
+ "cineworld": {
+  "slot": "attraction-name",
+  "vi": "Rạp chiếu phim Bách Quang"
+ },
+ "cineworld cinema": {
+  "slot": "attraction-name",
+  "vi": "Rạp chiếu phim Bách Quang"
+ },
+ "cineworld cinema's": {
+  "slot": "attraction-name",
+  "vi": "Rạp chiếu phim Bách Quang"
+ },
+ "clare college": {
+  "slot": "attraction-name",
+  "vi": "Học viện An Tùng"
+ },
+ "clare hall": {
+  "slot": "attraction-name",
+  "vi": "Học viện Thủy Hương"
+ },
+ "club salsa": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Lộc Phụng"
+ },
+ "club salsa's": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Lộc Phụng"
+ },
+ "contemporary art": {
+  "slot": "attraction-name",
+  "vi": "Phòng tranh Lâm Phụng"
+ },
+ "contemporary art museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hải Bích"
+ },
+ "corn cambridge exchange": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Tùng Phụng"
+ },
+ "corn exchange": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Hương Nguyệt"
+ },
+ "corpus christi": {
+  "slot": "attraction-name",
+  "vi": "Học viện Bích Hồng"
+ },
+ "country park": {
+  "slot": "attraction-name",
+  "vi": "Công viên Tùng Phong"
+ },
+ "county folk museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Liễu Tùng"
+ },
+ "downing college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Thu Ngọc"
+ },
+ "emmanuel college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phúc Cúc"
+ },
+ "emmauel college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phúc Cúc"
+ },
+ "fez": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Long Bách"
+ },
+ "fez club": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Long Bách"
+ },
+ "fitzwilliam": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Bách Đào"
+ },
+ "fitzwilliam museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Bách Đào"
+ },
+ "funk fun house": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Liễu Xuân"
+ },
+ "funky": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Liễu Xuân"
+ },
+ "funky fun house": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Liễu Xuân"
+ },
+ "funky fun house's": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Liễu Xuân"
+ },
+ "funky house": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Phong Bắc"
+ },
+ "gallery at twelve": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hồng Mai"
+ },
+ "gallery at twelve a high street": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hồng Mai"
+ },
+ "gallery at twelve and high street": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hồng Mai"
+ },
+ "georgina": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Long Thu"
+ },
+ "gonville and caius": {
+  "slot": "attraction-name",
+  "vi": "Học viện Bách Bắc"
+ },
+ "gonville and caius college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Bách Bắc"
+ },
+ "great saint mary's": {
+  "slot": "attraction-name",
+  "vi": "Công trình Cúc Thanh"
+ },
+ "great saint mary's church": {
+  "slot": "attraction-name",
+  "vi": "Công trình Cúc Thanh"
+ },
+ "history of science museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lân Bách"
+ },
+ "holy trinity": {
+  "slot": "attraction-name",
+  "vi": "Công trình Cúc Kim"
+ },
+ "holy trinity church": {
+  "slot": "attraction-name",
+  "vi": "Công trình Cúc Kim"
+ },
+ "hughes hall": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phụng Lam"
+ },
+ "jello": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Phụng Liễu"
+ },
+ "jello gallery's": {
+  "slot": "attraction-name",
+  "vi": "Phòng tranh Nam Đào"
+ },
+ "jesus college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Hải Hạc"
+ },
+ "green outdoor pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Tùng Sơn"
+ },
+ "jesus green": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Tùng Sơn"
+ },
+ "jesus green outdoor pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Tùng Sơn"
+ },
+ "jesus green pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Trúc Liễu"
+ },
+ "john's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Ngọc Lân"
+ },
+ "kambar": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Lộc Lam"
+ },
+ "kambar's": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Lộc Lam"
+ },
+ "kettle's yard": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Thanh Hạ"
+ },
+ "kettles yard": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Thanh Hạ"
+ },
+ "king's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Đào Phong"
+ },
+ "kings college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Đào Phong"
+ },
+ "hedges learner pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Lân Hồng"
+ },
+ "kings hedges": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Lân Hồng"
+ },
+ "kings hedges learner pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Lân Hồng"
+ },
+ "lammas land park": {
+  "slot": "attraction-name",
+  "vi": "Công viên Lan Lam"
+ },
+ "little saint mary's": {
+  "slot": "attraction-name",
+  "vi": "Công trình Minh Thọ"
+ },
+ "little saint mary's church": {
+  "slot": "attraction-name",
+  "vi": "Công trình Minh Thọ"
+ },
+ "little saint maryschurch": {
+  "slot": "attraction-name",
+  "vi": "Công trình Minh Thọ"
+ },
+ "little st mary": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Nguyệt Minh"
+ },
+ "lynne strover": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Bắc Long"
+ },
+ "lynne strover gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Bắc Long"
+ },
+ "magdalene college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Nam Bích"
+ },
+ "magdalene college's": {
+  "slot": "attraction-name",
+  "vi": "Học viện Nam Bích"
+ },
+ "man on the moon": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Lân Trúc"
+ },
+ "milton country park": {
+  "slot": "attraction-name",
+  "vi": "Công viên Quang Kim"
+ },
+ "mumford": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Vân Tài"
+ },
+ "mumford theatre": {
+  "slot": "attraction-name",
+  "vi": "Nhà hát Vân Tài"
+ },
+ "museum of archaelogy": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Kim Liễu"
+ },
+ "museum of archaelogy and anthropology": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Kim Liễu"
+ },
+ "museum of archaeology and anthropology": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Kim Liễu"
+ },
+ "museum of archeology and anthropology": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Kim Liễu"
+ },
+ "museum of classical": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lan An"
+ },
+ "museum of classical archaeology": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lan An"
+ },
+ "museum of technology": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Trúc Sơn"
+ },
+ "nusha": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Hạ Sen"
+ },
+ "old school": {
+  "slot": "attraction-name",
+  "vi": "Công trình Thủy Long"
+ },
+ "old schools": {
+  "slot": "attraction-name",
+  "vi": "Công trình Thủy Long"
+ },
+ "older churches": {
+  "slot": "attraction-name",
+  "vi": "Điểm tham quan Hồng Tài"
+ },
+ "parkside pools": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Nguyệt Bình"
+ },
+ "parkside swimming pool": {
+  "slot": "attraction-name",
+  "vi": "Bể bơi Lan Bách"
+ },
+ "pembroke": {
+  "slot": "attraction-name",
+  "vi": "Học viện Bách An"
+ },
+ "pembroke college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Bách An"
+ },
+ "people's portrait exhibition at girton college": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Mai Sen"
+ },
+ "people's portraits exhibition": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Mai Sen"
+ },
+ "people's portraits exhibition at girton college": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Mai Sen"
+ },
+ "people's portraits exhibition at the girton college": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Mai Sen"
+ },
+ "peoples portraits exhibition at girton college": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Mai Sen"
+ },
+ "primavera": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Tùng Bắc"
+ },
+ "primavera's": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Tùng Bắc"
+ },
+ "queen's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Tùng Hồng"
+ },
+ "queens college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Tùng Hồng"
+ },
+ "queens' college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Tùng Hồng"
+ },
+ "recommendvlittle saint mary's church": {
+  "slot": "attraction-name",
+  "vi": "Nhà thờ Lộc Minh"
+ },
+ "regency gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Bắc Nam"
+ },
+ "riverboat georgina": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Lân Vân"
+ },
+ "ruskin": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hạc Mai"
+ },
+ "ruskin gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hạc Mai"
+ },
+ "saint barnabas press": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lân Phúc"
+ },
+ "saint barnabas press gallery": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lân Phúc"
+ },
+ "catharine's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phụng Bắc"
+ },
+ "saint catharine's": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phụng Bắc"
+ },
+ "saint catharine's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phụng Bắc"
+ },
+ "saint catherine's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phụng Bắc"
+ },
+ "saint john's college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phong An"
+ },
+ "saint johns college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Phong An"
+ },
+ "scott polar": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hạ Bình"
+ },
+ "scott polar museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hạ Bình"
+ },
+ "scudamore's punting": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Hải Nguyệt"
+ },
+ "scudamores": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Hải Nguyệt"
+ },
+ "scudamores punti co": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Hải Nguyệt"
+ },
+ "scudamores punting co": {
+  "slot": "attraction-name",
+  "vi": "Du thuyền Hải Nguyệt"
+ },
+ "sheep's green": {
+  "slot": "attraction-name",
+  "vi": "Công viên Kim Trúc"
+ },
+ "sheep's green and lammas land park fen causeway": {
+  "slot": "attraction-name",
+  "vi": "Công viên Kim Trúc"
+ },
+ "sidney sussex": {
+  "slot": "attraction-name",
+  "vi": "Học viện Thu Mai"
+ },
+ "sidney sussex college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Thu Mai"
+ },
+ "soul tree": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Xuân Tinh"
+ },
+ "soul tree nightclub": {
+  "slot": "attraction-name",
+  "vi": "Câu lạc bộ Xuân Tinh"
+ },
+ "strover gallery": {
+  "slot": "attraction-name",
+  "vi": "Phòng tranh Lan Hỷ"
+ },
+ "tenpin": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Nam Phụng"
+ },
+ "tenpin's": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Nam Phụng"
+ },
+ "trinity college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Bắc Lâm"
+ },
+ "trinity street college": {
+  "slot": "attraction-name",
+  "vi": "Học viện Hạc Thọ"
+ },
+ "university botanic gardens": {
+  "slot": "attraction-name",
+  "vi": "Công viên Thanh Quang"
+ },
+ "vue cinema": {
+  "slot": "attraction-name",
+  "vi": "Rạp chiếu phim Ngọc Phụng"
+ },
+ "wandlebury": {
+  "slot": "attraction-name",
+  "vi": "Công viên Bách Kim"
+ },
+ "wandlebury country park": {
+  "slot": "attraction-name",
+  "vi": "Công viên Bách Kim"
+ },
+ "whale of a time": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Hạc Đào"
+ },
+ "whale of at time": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Hạc Đào"
+ },
+ "whale of time": {
+  "slot": "attraction-name",
+  "vi": "Khu vui chơi Hạc Đào"
+ },
+ "whipple museum of history": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Thọ Lan"
+ },
+ "whipple": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lân Tùng"
+ },
+ "whipple museum": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lân Tùng"
+ },
+ "whipple museum of the history of science": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Lân Tùng"
+ },
+ "william's art and antiques": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hải An"
+ },
+ "williams art & antiques": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hải An"
+ },
+ "williams art and antiques": {
+  "slot": "attraction-name",
+  "vi": "Bảo tàng Hải An"
+ },
+ "a & b guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "a & b guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "a and b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "a and b guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "a and b guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "a and b quest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "a and be guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bắc Tùng"
+ },
+ "accorn guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "acorn": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "acorn guest": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "acorn guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "acorn guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "acorns guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "arcon guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Tinh"
+ },
+ "acorn house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Minh Thu"
+ },
+ "alexander b&b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Phong Tùng"
+ },
+ "alexander bed & breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Hạc"
+ },
+ "alexander bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Hạc"
+ },
+ "alexander bed and breakfastin": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Hạc"
+ },
+ "alexander bed and breakfeast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Hạc"
+ },
+ "alexeander b&b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Long Hạc"
+ },
+ "allen bell": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Tinh"
+ },
+ "allenball": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Tinh"
+ },
+ "allenbell": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Tinh"
+ },
+ "alpha milton guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "alpha milton guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "alpha-milton": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "alpha-milton guest": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "alpha-milton guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "alpha-milton guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "alpha-minton guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "apha-milton guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hồng Bắc"
+ },
+ "apha-milton": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Trúc Hạ"
+ },
+ "arbury guesthouse and lodge": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thủy Bình"
+ },
+ "arbury guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bách Hỷ"
+ },
+ "arbury lodge": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bách Hỷ"
+ },
+ "arbury lodge guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bách Hỷ"
+ },
+ "arbury lodge guesthouses": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bách Hỷ"
+ },
+ "archway guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Tinh Xuân"
+ },
+ "archway": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ An Sen"
+ },
+ "archway house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ An Sen"
+ },
+ "archyway house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ An Sen"
+ },
+ "artchway house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ An Sen"
+ },
+ "ashely hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Hải Long"
+ },
+ "ashley": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Hải Long"
+ },
+ "ashley hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Hải Long"
+ },
+ "autumn house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lan Hải"
+ },
+ "avaion": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Phong Thọ"
+ },
+ "avalon": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Quang Hải"
+ },
+ "avolon": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Kim Ngọc"
+ },
+ "alesbray lodge guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Tinh Nam"
+ },
+ "alyesbray lodge guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Tinh Nam"
+ },
+ "aylesbray lodge": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Tinh Nam"
+ },
+ "aylesbray lodge guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Tinh Nam"
+ },
+ "aylesbury odge guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Tinh Nam"
+ },
+ "b guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Phong Thanh"
+ },
+ "belfrey": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Xuân Nam"
+ },
+ "belfry": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Hỷ Lam"
+ },
+ "bridge guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bình Xuân"
+ },
+ "bridge guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bình Xuân"
+ },
+ "lodge guest house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bình Xuân"
+ },
+ "bridge house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Xuân Cúc"
+ },
+ "cambridge belfrey": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lộc Hồng"
+ },
+ "cambridge belfry": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lộc Hồng"
+ },
+ "cambridge belfy": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lộc Hồng"
+ },
+ "cambridge belgry": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lộc Hồng"
+ },
+ "carolina b&b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Liễu Mai"
+ },
+ "carolina bed & breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hải Vân"
+ },
+ "carolina bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hải Vân"
+ },
+ "caroline bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hải Vân"
+ },
+ "city center b&b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bách Hạ"
+ },
+ "city cenrtree north and b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Sơn Nguyệt"
+ },
+ "city center north b and b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Sơn Nguyệt"
+ },
+ "city centre b and b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Sơn Nguyệt"
+ },
+ "city centre north b & b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Sơn Nguyệt"
+ },
+ "city centre north b and b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Sơn Nguyệt"
+ },
+ "city centre north b&b": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Sơn Nguyệt"
+ },
+ "citiroomz": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bích Hạc"
+ },
+ "citycroomz": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bích Hạc"
+ },
+ "cityrooma": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bích Hạc"
+ },
+ "cityrooms": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bích Hạc"
+ },
+ "cityroomz": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bích Hạc"
+ },
+ "doubletree by hilton cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bách Long"
+ },
+ "el shadai": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thanh Hồng"
+ },
+ "el shaddai": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thanh Hồng"
+ },
+ "el shaddi": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thanh Hồng"
+ },
+ "el shaddai guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hải Mai"
+ },
+ "el shaddia guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bích Sơn"
+ },
+ "express by hoilday inn cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "express by holiday in cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "express by holiday inn": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "express by holiday inn - cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "express by holiday inn cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "express by holiday inn in cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "express holiday inn by cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Hạc"
+ },
+ "finches b&b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Phúc Long"
+ },
+ "finches": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lâm Đào"
+ },
+ "finches bed & breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lâm Đào"
+ },
+ "finches bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lâm Đào"
+ },
+ "flinches bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lâm Đào"
+ },
+ "gonville": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bình Lam"
+ },
+ "gonville hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bình Lam"
+ },
+ "goonville hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bình Lam"
+ },
+ "hamiliton lodge": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lân Lan"
+ },
+ "hamilton": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lân Lan"
+ },
+ "hamilton lodge": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lân Lan"
+ },
+ "hobson house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lam Hải"
+ },
+ "hobson's house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lam Hải"
+ },
+ "hobsons house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lam Hải"
+ },
+ "holiday inn": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Đào Hồng"
+ },
+ "holiday inn cambridge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Tài Lân"
+ },
+ "holiday inn exlpress": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Hỷ Minh"
+ },
+ "home from home": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Cúc Thọ"
+ },
+ "huntingdon hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bích Nam"
+ },
+ "huntingdon marriot": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Trúc Tinh"
+ },
+ "huntingdon marriot hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Mai An"
+ },
+ "huntingdon marriott": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Mai An"
+ },
+ "huntingdon marriott hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Mai An"
+ },
+ "huntington marriot hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Mai An"
+ },
+ "huntington marriott hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Mai An"
+ },
+ "huntingdown marriot": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Liễu Minh"
+ },
+ "huntington marriott": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bắc Nguyệt"
+ },
+ "kirkwood guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Liễu Bách"
+ },
+ "kirkwood": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hạ Bách"
+ },
+ "kirkwood house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hạ Bách"
+ },
+ "lensdield hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bách Tài"
+ },
+ "lensfield hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Bách Tài"
+ },
+ "leverton guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lâm Hạ"
+ },
+ "leverton": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lan Hạc"
+ },
+ "leverton house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Lan Hạc"
+ },
+ "limehouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bình Vân"
+ },
+ "lodge guesthouse": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bình Trúc"
+ },
+ "lovell": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Xuân"
+ },
+ "lovell lodge": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Lâm Xuân"
+ },
+ "marriott": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Thọ Tinh"
+ },
+ "marriott hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Thanh Phụng"
+ },
+ "north b and b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Sơn Thọ"
+ },
+ "rosa's b&b": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Minh Thanh"
+ },
+ "osa's bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hương Hỷ"
+ },
+ "rosa's": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hương Hỷ"
+ },
+ "rosa's b ed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hương Hỷ"
+ },
+ "rosa's bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hương Hỷ"
+ },
+ "rosas's bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hương Hỷ"
+ },
+ "rose's bed and breakfast": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Hương Hỷ"
+ },
+ "super 5": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Hồng Liễu"
+ },
+ "university arms": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Ngọc Hương"
+ },
+ "university arms hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Ngọc Hương"
+ },
+ "university arms hotel's": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Ngọc Hương"
+ },
+ "university hotel": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Ngọc Hương"
+ },
+ "university of arms": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Mai Nam"
+ },
+ "wankworth house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Trúc"
+ },
+ "warkworth house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Thu Trúc"
+ },
+ "wartworth": {
+  "slot": "hotel-name",
+  "vi": "Khách sạn Thanh Thu"
+ },
+ "worth house": {
+  "slot": "hotel-name",
+  "vi": "Nhà nghỉ Bích An"
+ },
+ "addenbrookes": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Lam Bắc"
+ },
+ "ali": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Xuân Hương"
+ },
+ "ali baba": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Xuân Hương"
+ },
+ "alimentum": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tùng Lam"
+ },
+ "anatolia": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bách Lam"
+ },
+ "anatolia's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bách Lam"
+ },
+ "antolia": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bách Lam"
+ },
+ "anatolia restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Nguyệt Quang"
+ },
+ "backstreet bistro": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Phúc Nam"
+ },
+ "bangkok city": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Liễu Bích"
+ },
+ "barbakan": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Lộc Quang"
+ },
+ "bedouin": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hương Liễu"
+ },
+ "bloomsbury": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Ngọc Trúc"
+ },
+ "bloomsbury restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Ngọc Trúc"
+ },
+ "cafe uno": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Lam"
+ },
+ "caffe": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Lam"
+ },
+ "caffe uno": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Lam"
+ },
+ "caffee uno": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Lam"
+ },
+ "cambridge chop": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hải Đào"
+ },
+ "cambridge chop house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hải Đào"
+ },
+ "cambridge lodge": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Hương"
+ },
+ "cambridge lodge restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Hương"
+ },
+ "charlie chan": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Hạc Hồng"
+ },
+ "charlie chan's": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Hạc Hồng"
+ },
+ "chiquito": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Nguyệt"
+ },
+ "chiquito restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Nguyệt"
+ },
+ "chiquito restaurant and bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Nguyệt"
+ },
+ "chiquito restaurant bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Nguyệt"
+ },
+ "city stop restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Mai Hải"
+ },
+ "clown": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bắc Vân"
+ },
+ "clown's cafe": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Nguyệt Hồng"
+ },
+ "clowns cafe": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Nguyệt Hồng"
+ },
+ "cocum": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bắc Hồng"
+ },
+ "copper kettle": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bích Long"
+ },
+ "copper kettle's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bích Long"
+ },
+ "cote": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lam Thanh"
+ },
+ "cotto": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bách Tinh"
+ },
+ "cow pizza kitchen": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Hồng Phong"
+ },
+ "cow pizza kitchen and bar": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Hồng Phong"
+ },
+ "cow pizza kitchen and barn": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Hồng Phong"
+ },
+ "curry garden": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lân Quang"
+ },
+ "curry king": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hạc Trúc"
+ },
+ "curry prince": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thanh Lam"
+ },
+ "curry prince's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thanh Lam"
+ },
+ "curry queen": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thanh An"
+ },
+ "da vince pizzeria": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Hương Trúc"
+ },
+ "da vinci": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Hương Trúc"
+ },
+ "da vinci pizzeria": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Hương Trúc"
+ },
+ "darry's cookhouse and wine shop": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lâm Hồng"
+ },
+ "darrys cookhouse and wine shop": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lâm Hồng"
+ },
+ "darrys corkhouse": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Long Liễu"
+ },
+ "de luca cicina and bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hỷ Long"
+ },
+ "de luca cucina": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hỷ Long"
+ },
+ "de luca cucina and bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hỷ Long"
+ },
+ "luca cucina and bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hỷ Long"
+ },
+ "de luca cucina and bar and riverside brasserie": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Hương Tùng"
+ },
+ "dojo noddle bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Mai Tài"
+ },
+ "dojo noodle": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Mai Tài"
+ },
+ "dojo noodle bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Mai Tài"
+ },
+ "dojo nooodle bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Mai Tài"
+ },
+ "don pasquale pizzeria": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Lân Mai"
+ },
+ "pasquale pizzeria": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Lân Mai"
+ },
+ "efes": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tinh Nguyệt"
+ },
+ "efes restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tinh Nguyệt"
+ },
+ "eraina": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thủy Tùng"
+ },
+ "eraina and michaelhouse cafe": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Trúc Bích"
+ },
+ "erania": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn Sen"
+ },
+ "fen ditton": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lam Hương"
+ },
+ "fitzbillies": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tùng Lân"
+ },
+ "fitzbillies restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tùng Lân"
+ },
+ "frankie & benny's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Sơn"
+ },
+ "frankie and benny's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Sơn"
+ },
+ "frankie and bennys": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Sơn"
+ },
+ "frankie's and bennys": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Sơn"
+ },
+ "fyne": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Ngọc Lộc"
+ },
+ "galleria": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hỷ Thủy"
+ },
+ "gandhi": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Lan Bình"
+ },
+ "ghandhi": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Lan Bình"
+ },
+ "gardenia": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Thanh Hỷ"
+ },
+ "ghandi": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Đào Sơn"
+ },
+ "golden curry": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Đào Phụng"
+ },
+ "golden house": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Xuân Tùng"
+ },
+ "golden wok": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thọ Bắc"
+ },
+ "golden wok's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thọ Bắc"
+ },
+ "good luck": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Minh Lân"
+ },
+ "good luck chinese food takeaway": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Minh Lân"
+ },
+ "gourmet burger kitchen": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hạc Thủy"
+ },
+ "gourmet formal kitchen": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Lam Vân"
+ },
+ "graffiti": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thanh Nguyệt"
+ },
+ "grafitti": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thanh Nguyệt"
+ },
+ "grafton hotel": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Nam Sơn"
+ },
+ "grafton hotel restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Nam Sơn"
+ },
+ "hakka": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Phúc Mai"
+ },
+ "hk fusion": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Phong Hỷ"
+ },
+ "hotel du vin and bistro": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bích Mai"
+ },
+ "hotel du vin bistro": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bích Mai"
+ },
+ "hotspot": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thu Lân"
+ },
+ "ian hong": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Phong Sen"
+ },
+ "india house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Tài"
+ },
+ "indiana restaurants": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Tinh Hỷ"
+ },
+ "italian one": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Hồng An"
+ },
+ "j restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Hạ Lộc"
+ },
+ "jinling": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Bách Hải"
+ },
+ "jinling noodle bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Bách Hải"
+ },
+ "kitchen and bar": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Lân Minh"
+ },
+ "kohinoor": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Phúc Bích"
+ },
+ "kymmoy": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tài Kim"
+ },
+ "kymmoy restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lộc Thọ"
+ },
+ "la margerita": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Đào Sen"
+ },
+ "la margherita": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Đào Sen"
+ },
+ "la mimosa": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn Long"
+ },
+ "la minosa": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn Long"
+ },
+ "la raza": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Thủy Vân"
+ },
+ "la raza's": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Thủy Vân"
+ },
+ "la tasca": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Vân"
+ },
+ "la tasce": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Vân"
+ },
+ "ian hong house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Long Bích"
+ },
+ "lan hong house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Long Bích"
+ },
+ "little seoul": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sen Lan"
+ },
+ "loch fyne": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lâm Tinh"
+ },
+ "loch fyne's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lâm Tinh"
+ },
+ "luca cucina": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Minh Quang"
+ },
+ "lucky star": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Thủy Phúc"
+ },
+ "mahal of cambridge": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Lâm Long"
+ },
+ "maharajah tandoor": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Bách Vân"
+ },
+ "maharajah tandoor restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hương Tinh"
+ },
+ "maharajah tandoori": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hương Tinh"
+ },
+ "maharajah tandoori restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hương Tinh"
+ },
+ "meghan": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Lan Thọ"
+ },
+ "meghana": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Nguyệt"
+ },
+ "meghna": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Nguyệt"
+ },
+ "meze bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Bắc Phúc"
+ },
+ "meze bar restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Trúc Lam"
+ },
+ "michael house cafe": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Thủy Lân"
+ },
+ "michaelhouse": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Thủy Lân"
+ },
+ "michaelhouse cafe": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Thủy Lân"
+ },
+ "midsummer house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Long"
+ },
+ "midsummer house restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Long"
+ },
+ "missing sock": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Sen Hỷ"
+ },
+ "molecular gastronomy": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Long Phúc"
+ },
+ "nados": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Kim Xuân"
+ },
+ "nando's": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Kim Xuân"
+ },
+ "nandos": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Kim Xuân"
+ },
+ "nandos city": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Tài Quang"
+ },
+ "nandos city centre": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Tài Quang"
+ },
+ "nirala": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thủy Bích"
+ },
+ "nirala's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thủy Bích"
+ },
+ "noodle bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Hải Hồng"
+ },
+ "oak bistro": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hạ Phụng"
+ },
+ "one seven": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Hỷ Phong"
+ },
+ "panahar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Phong Lâm"
+ },
+ "peking": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Ngọc Tinh"
+ },
+ "peking restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Ngọc Tinh"
+ },
+ "pipasha": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Đào Tài"
+ },
+ "pipasha restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Đào Tài"
+ },
+ "pizza express": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Quang Phúc"
+ },
+ "pizza express fen ditton": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Quang Hạ"
+ },
+ "pizza hut": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Thọ Thanh"
+ },
+ "pizza hut cherry": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Sơn Mai"
+ },
+ "pizza hut cherry hilton": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Sơn Mai"
+ },
+ "pizza hut cherry hinto": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Sơn Mai"
+ },
+ "pizza hut cherry hinton": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Sơn Mai"
+ },
+ "pizza hut in cherry hinton": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Sơn Mai"
+ },
+ "pizza hut city": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Kim Hải"
+ },
+ "pizza hut city centre": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Kim Hải"
+ },
+ "pizza hut fen ditton": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza An Hải"
+ },
+ "pizza hut in cherry": {
+  "slot": "restaurant-name",
+  "vi": "Tiệm Pizza Vân Phúc"
+ },
+ "prezzo": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Nam"
+ },
+ "rajmahal": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Tùng Nam"
+ },
+ "restaurant alimentum": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Xuân Hồng"
+ },
+ "restaurant alimentum's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Xuân Hồng"
+ },
+ "restaurant one seven": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Phúc Lộc"
+ },
+ "rice boat": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Phụng Lâm"
+ },
+ "rice house": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Phúc Đào"
+ },
+ "river bar and steakhouse": {
+  "slot": "restaurant-name",
+  "vi": "Bếp An Lộc"
+ },
+ "river bar steakhouse and grill": {
+  "slot": "restaurant-name",
+  "vi": "Quán Nướng Thọ Hải"
+ },
+ "riverside brasserie": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Trúc Lâm"
+ },
+ "riverside brasserie's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Trúc Lâm"
+ },
+ "royal spice": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Hạ Thanh"
+ },
+ "royal standard": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Xuân Thanh"
+ },
+ "saffron brasserie": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Xuân Thủy"
+ },
+ "saigon city": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Hồng"
+ },
+ "saint john's chop house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Sen"
+ },
+ "saint johns chop house": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Sen"
+ },
+ "sala thong": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng An Cúc"
+ },
+ "sesame restaurant and bar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Long Lam"
+ },
+ "shanghai family": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Mai Bình"
+ },
+ "shanghai family restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Mai Bình"
+ },
+ "shanghi family restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Mai Bình"
+ },
+ "shiraz": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn Lân"
+ },
+ "shiraz restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn Lân"
+ },
+ "sitar": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Vân Hỷ"
+ },
+ "sitar tandoori": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Vân Hỷ"
+ },
+ "slug and lettuce": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Vân"
+ },
+ "stazione": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Tùng Phúc"
+ },
+ "stazione resaurant and coffee bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Tùng Phúc"
+ },
+ "stazione restaurant and coffee bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Cà Phê Tùng Phúc"
+ },
+ "taj tandoori": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lộc Long"
+ },
+ "taj tandoori's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lộc Long"
+ },
+ "tandoori palace": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Liễu Hương"
+ },
+ "tang chinese": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Hồng Đào"
+ },
+ "thanh binh": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Vân Đào"
+ },
+ "traveller's rest": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Phúc"
+ },
+ "travellers rest": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Kim Phúc"
+ },
+ "ugly duckling": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Thọ Cúc"
+ },
+ "varsity": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn An"
+ },
+ "varsity restaurant": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn An"
+ },
+ "varsity restaurants": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Sơn An"
+ },
+ "wagamama": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Xuân"
+ },
+ "wagamana": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Lan Xuân"
+ },
+ "wise buddha": {
+  "slot": "restaurant-name",
+  "vi": "Bếp Lộc Mai"
+ },
+ "yippee": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Minh An"
+ },
+ "yippee noodle": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Minh An"
+ },
+ "yippee noodle bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Minh An"
+ },
+ "yippee noolde bar": {
+  "slot": "restaurant-name",
+  "vi": "Quán Mì Minh An"
+ },
+ "yu garden": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Bích"
+ },
+ "yu garden's": {
+  "slot": "restaurant-name",
+  "vi": "Nhà hàng Cúc Bích"
+ },
+ "zizzi": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Trúc Lộc"
+ },
+ "zizzi cambridge": {
+  "slot": "restaurant-name",
+  "vi": "Quán ăn Trúc Lộc"
+ }
+}

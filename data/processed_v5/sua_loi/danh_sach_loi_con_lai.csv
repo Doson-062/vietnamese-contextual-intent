@@ -1,0 +1,159 @@
+﻿nhom_loi,file,dong_trong_file,id,luot,nhan_hien_tai,nhan_de_xuat,dong_trong_sua_nhan,ghi_chu,en,vi
+1_NONE_nhung_co_yeu_cau,data_v1/train.jsonl,7,SSNG0060.json,4,NONE,book_restaurant,,,"Yes book a table, thank you.","Có, bạn đặt giúp mình một bàn nhé, cảm ơn bạn."
+1_NONE_nhung_co_yeu_cau,data_v1/train.jsonl,76,MUL1279.json,12,NONE,book_hotel,,,Yes. I would like you to book me a room. Thanks.,Có. Mình muốn bạn đặt giúp mình một phòng. Cảm ơn bạn.
+1_NONE_nhung_co_yeu_cau,data_v1/train.jsonl,589,PMUL3768.json,6,NONE,find_hotel,,,Thank you! Can you also help me with a place to stay?,Cảm ơn bạn! Bạn cũng có thể giúp mình tìm một chỗ để ở được không?
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,1,MUL0786.json,10,find_train,NONE,,,Thanks. I'm good then.,Cảm ơn bạn. Vậy là mình xong rồi.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,10,MUL1579.json,12,book_restaurant,NONE,,,"No, thats all i needed.","Không, mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,20,SSNG0047.json,8,book_restaurant,NONE,,,Thank you that will be all. Have a great day!,"Cảm ơn bạn, vậy là đủ rồi. Chúc bạn một ngày tốt lành!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,24,PMUL3223.json,4,find_train,NONE,,,Thank you - that is exactly what I need,"Cảm ơn bạn, đó chính xác là chuyến mình cần."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,47,MUL0783.json,14,book_hotel,NONE,,,No thank you goodbye.,"Không, cảm ơn bạn. Chào bạn nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,53,SNG0496.json,8,book_restaurant,NONE,,,That's all I needed. Thanks for your help.,Mình chỉ cần vậy thôi. Cảm ơn bạn đã giúp đỡ.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,65,PMUL0627.json,16,book_restaurant,NONE,,,Thank you for your time.,Cảm ơn bạn đã dành thời gian.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,65,PMUL0627.json,18,book_restaurant,NONE,,,That's all I need assistance with today. Thank you.,Mình chỉ cần hỗ trợ đến đây thôi. Cảm ơn bạn.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,79,WOZ20338.json,2,find_restaurant,NONE,,,Thank you goodbye.,"Cảm ơn bạn, tạm biệt nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,94,PMUL0869.json,12,find_train,NONE,,,No that's all you can help me with.,"Không, bạn chỉ giúp được mình đến vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,97,SSNG0176.json,10,book_restaurant,NONE,,,No thank you. Goodbye,"Không, cảm ơn bạn. Tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,113,MUL0238.json,16,find_restaurant,NONE,,,Thank you. That is all I needed.,Cảm ơn bạn. Mình chỉ cần bấy nhiêu thôi.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,118,PMUL0135.json,10,find_hotel,NONE,,,"No, that's all I need.","Không, mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,125,SNG1334.json,8,book_hotel,NONE,,,"You've been great, that is all I needed. Thank you, goodbye!","Bạn hỗ trợ mình rất tốt, mình chỉ cần vậy thôi. Cảm ơn bạn, tạm biệt!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,128,PMUL0714.json,12,book_train,NONE,,,Thanks so much for your help.,Cảm ơn bạn rất nhiều đã giúp mình.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,133,SSNG0317.json,10,book_hotel,NONE,,,Thank you that is all I need.,"Cảm ơn bạn, mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,171,SSNG0096.json,12,book_restaurant,NONE,,,Thank you. That is all I need.,Cảm ơn bạn. Mình chỉ cần vậy thôi.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,260,SNG0558.json,4,book_restaurant,NONE,,,No thank you. goodbye.,"Không, cảm ơn bạn. Tạm biệt nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,262,SNG0978.json,4,find_hotel,NONE,,,No thank you.,"Không cần đâu, cảm ơn bạn."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,277,WOZ20278.json,6,find_restaurant,NONE,,,"Thank you, goodbye!","Cảm ơn bạn, tạm biệt!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,279,SNG0809.json,8,book_hotel,NONE,,,"Thank you so much, that is all I need.","Cảm ơn bạn nhiều lắm, mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,307,SSNG0226.json,8,book_hotel,NONE,,,No thank you. That will be all.,"Không, cảm ơn bạn. Vậy là đủ rồi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,382,WOZ20622.json,6,find_restaurant,NONE,,,Thank you.,Cảm ơn bạn.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,401,PMUL4135.json,14,book_hotel,NONE,,,"That's all I need, thank you so much! Have a nice day!","Mình chỉ cần vậy thôi, cảm ơn bạn rất nhiều! Chúc bạn một ngày tốt lành!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,422,SSNG0184.json,20,book_restaurant,NONE,,,"Thanks, I hope it will be a good one. Bye!","Cảm ơn bạn, mình hy vọng đó sẽ là một quán ngon. Tạm biệt nhé!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,434,SNG0646.json,14,book_restaurant,NONE,,,"Thank you, that is all I need. Bye.","Cảm ơn bạn, mình chỉ cần vậy thôi. Tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,442,SSNG0089.json,4,book_restaurant,NONE,,,"Nope, I think that will do it. Thank you so much!","Không, mình nghĩ vậy là đủ rồi. Cảm ơn bạn nhiều nhé!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,451,SNG0663.json,6,book_restaurant,NONE,,,Thank you very much for your help!,Cảm ơn bạn nhiều vì đã giúp mình nhé!
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,459,SSNG0364.json,10,book_hotel,NONE,,,"No, thank you. That's all I need.","Không, cảm ơn bạn. Mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,467,WOZ20666.json,4,find_restaurant,NONE,,,"That's it. Thank you, goodbye","Vậy là đủ rồi. Cảm ơn bạn, tạm biệt nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,477,PMUL1690.json,20,book_hotel,NONE,,,That's all I need for today. Thanks for your help!,Hôm nay mình chỉ cần vậy thôi. Cảm ơn bạn đã giúp đỡ!
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,483,MUL0006.json,14,book_restaurant,NONE,,,Thank you very much for your help.,Cảm ơn bạn rất nhiều đã giúp mình.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,496,SNG01161.json,6,book_train,NONE,,,"Thanks, that's all. Good bye.","Cảm ơn bạn, mình chỉ cần vậy thôi. Tạm biệt nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,545,WOZ20314.json,4,find_restaurant,NONE,,,Thank you goodbye.,"Cảm ơn bạn, tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,556,SSNG0099.json,10,book_restaurant,NONE,,,"Nope, I think that will do it, thank you","Không, mình nghĩ vậy là đủ rồi, cảm ơn bạn."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,564,MUL1602.json,14,find_train,NONE,,,No thanks. That will not be necessary. Thanks for the info. Goodbye.,"Không cần đâu, cảm ơn bạn. Cảm ơn bạn đã cung cấp thông tin. Tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,578,SSNG0020.json,10,book_restaurant,NONE,,,"Thank you, that's all I need today.","Cảm ơn bạn, hôm nay mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,581,SSNG0101.json,6,book_restaurant,NONE,,,Thank you and goodbye.,"Cảm ơn bạn, chào bạn nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,590,SNG1198.json,4,book_restaurant,NONE,,,"Great, thanks so much!","Tuyệt quá, cảm ơn bạn nhiều nhé!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,611,SSNG0307.json,14,book_hotel,NONE,,,"Thanks, that's all I need. Have a nice day.","Cảm ơn bạn, mình chỉ cần vậy thôi. Chúc bạn một ngày tốt lành."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,612,SSNG0122.json,12,book_restaurant,NONE,,,"No, that's all I needed. Have a nice day.","Không, mình chỉ cần vậy thôi. Chúc bạn một ngày tốt lành nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,629,SSNG0025.json,12,book_restaurant,NONE,,,"Nope, that should do it! Thanks!","Không, vậy là đủ rồi! Cảm ơn bạn!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,630,SSNG0233.json,10,book_hotel,NONE,,,Thank you for your help. That will be all for now.,Cảm ơn bạn đã giúp đỡ. Hiện tại mình chỉ cần vậy thôi.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,652,SSNG0278.json,14,book_hotel,NONE,,,"Thank you, that's all I need!","Cảm ơn bạn, mình chỉ cần vậy thôi!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,673,SSNG0144.json,8,book_restaurant,NONE,,,Thank you and goodbye,"Cảm ơn bạn, tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,698,MUL0245.json,12,book_train,NONE,,,Nope that should be it thank you,"Không, vậy là đủ rồi, cảm ơn bạn."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,701,PMUL0632.json,24,book_train,NONE,,,That's all I need today. Have a great day,Hôm nay mình chỉ cần vậy thôi. Chúc bạn một ngày tốt lành.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,704,PMUL0648.json,18,book_restaurant,NONE,,,"No thank you, that was everything!","Không, cảm ơn bạn, mình chỉ cần bấy nhiêu thôi!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,730,MUL1524.json,12,book_train,NONE,,,Thank you goodbye,"Cảm ơn bạn, tạm biệt nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,734,PMUL3511.json,6,book_hotel,NONE,,,Great thank you,"Tuyệt quá, cảm ơn bạn."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,825,PMUL3338.json,16,book_hotel,NONE,,,"Thanks, that is all I'll need today. Bye.","Cảm ơn bạn, hôm nay mình chỉ cần vậy thôi. Chào bạn nhé."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,831,PMUL0735.json,20,book_restaurant,NONE,,,Thank you for your help. That is all I need.,Cảm ơn bạn đã giúp đỡ. Mình chỉ cần vậy thôi.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,847,PMUL1733.json,18,book_hotel,NONE,,,Thanks for your help. Have a great day.,Cảm ơn bạn đã giúp đỡ. Chúc bạn một ngày tốt lành.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,879,PMUL3111.json,18,book_restaurant,NONE,,,"No, that's it! Thank you for all your help!","Không, vậy là đủ rồi! Cảm ơn bạn đã giúp mình!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,880,PMUL0224.json,12,book_restaurant,NONE,,,"No, that's all I need, thanks!","Không, mình chỉ cần vậy thôi, cảm ơn bạn!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,890,SSNG0111.json,8,book_restaurant,NONE,,,No thank you that should be all.,"Không, cảm ơn bạn, vậy là đủ rồi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,908,PMUL1820.json,16,book_train,NONE,,,Thank you for informing about the total duration.,Cảm ơn bạn đã cho mình biết tổng thời gian di chuyển.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,917,SNG0332.json,8,find_train,NONE,,,"No, that's everything.","Không, vậy là đủ rồi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,917,SNG0332.json,12,book_train,NONE,,,"No, that's all, thank you!","Không, vậy là hết rồi, cảm ơn bạn!"
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,919,MUL0672.json,22,find_hotel,NONE,,,You've been extremely helpful. And I hope you have a wonderful day.,Bạn đã giúp mình rất nhiều. Chúc bạn một ngày thật tốt lành nhé.
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,926,PMUL4027.json,2,find_hotel,NONE,,,"No, that's all I need.","Không cần đâu, mình chỉ cần vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,929,SNG0995.json,12,find_hotel,NONE,,,Thanks! That's all I needed today. Bye!,Cảm ơn bạn! Hôm nay mình chỉ cần vậy thôi. Tạm biệt bạn nhé!
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,943,SSNG0286.json,16,book_hotel,NONE,,,"No, that's all I needed. Have a nice day.","Không, mình chỉ cần vậy thôi. Chúc bạn một ngày tốt lành."
+2_cau_ket_thuc_mang_intent,data_v1/train.jsonl,961,SSNG0314.json,8,book_hotel,NONE,,,Thanks so much for all of your help,Cảm ơn bạn nhiều vì đã giúp mình.
+2_cau_ket_thuc_mang_intent,data_v1/dev.jsonl,3,SNG0609.json,10,book_restaurant,NONE,,,No that's all I needed. Thank you!,"Không, mình chỉ cần vậy thôi. Cảm ơn bạn!"
+2_cau_ket_thuc_mang_intent,data_v1/dev.jsonl,9,MUL1379.json,16,book_hotel,NONE,,,"That's all I needed, thanks so much!","Mình chỉ cần vậy thôi, cảm ơn bạn nhiều nhé!"
+2_cau_ket_thuc_mang_intent,data_v1/dev.jsonl,23,SNG0588.json,6,find_restaurant,NONE,,,Thanks for the information. Goodbye.,Cảm ơn bạn đã cung cấp thông tin. Tạm biệt bạn.
+2_cau_ket_thuc_mang_intent,data_v1/dev.jsonl,29,MUL0095.json,20,book_restaurant,NONE,,,Thank you for all of your help!,Cảm ơn bạn đã giúp mình rất nhiều!
+2_cau_ket_thuc_mang_intent,data_v1/dev.jsonl,81,PMUL3695.json,22,book_hotel,NONE,,,"No that's everything! Thanks for your help, bye!","Không, vậy là đủ rồi! Cảm ơn bạn đã giúp đỡ, tạm biệt nhé!"
+2_cau_ket_thuc_mang_intent,data_v1/dev.jsonl,104,SNG0475.json,4,book_restaurant,NONE,,,"No, that's all I needed, thank you.","Không, mình chỉ cần vậy thôi, cảm ơn bạn."
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,3,PMUL3494.json,12,book_restaurant,NONE,,,"Thanks, that is all for now. Goodbye.","Cảm ơn bạn, hiện tại như vậy là đủ rồi. Tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,129,MUL2254.json,16,find_train,NONE,,,Thank you! That will be all.,Cảm ơn bạn! Vậy là đủ rồi.
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,143,MUL1493.json,6,find_train,NONE,,,Thank you very much.,Cảm ơn bạn nhiều nhé.
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,158,MUL0144.json,12,find_hotel,NONE,,,"No thank you, that is all.","Không cần đâu, cảm ơn bạn, chỉ vậy thôi."
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,174,MUL0694.json,20,book_hotel,NONE,,,"No thanks, that's all for today. Thanks again! Bye.","Không cần đâu, hôm nay vậy là đủ rồi. Cảm ơn bạn nhiều nhé. Tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,188,PMUL1966.json,12,book_hotel,NONE,,,Thank you. That is all I needed. Goodbye.,Cảm ơn bạn. Mình chỉ cần vậy thôi. Tạm biệt bạn.
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,203,PMUL3625.json,14,book_restaurant,NONE,,,"No, that's all. Thanks! Goodbye.","Không, vậy là đủ rồi. Cảm ơn bạn! Tạm biệt."
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,238,SNG01884.json,6,book_hotel,NONE,,,"That's all I need, thank you!","Mình chỉ cần vậy thôi, cảm ơn bạn nhé!"
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,261,MUL1546.json,10,find_restaurant,NONE,,,That's all I need.,Mình chỉ cần bấy nhiêu thôi.
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,285,SNG0979.json,18,book_hotel,NONE,,,"No, that's everything I needed today, thank you.","Không, hôm nay mình chỉ cần vậy thôi, cảm ơn bạn."
+2_cau_ket_thuc_mang_intent,data_v1/test.jsonl,326,PMUL3217.json,16,find_train,NONE,,,Thank you for your time and help with this.,Cảm ơn bạn đã dành thời gian giúp đỡ mình.
+3_sai_domain,data_v1/train.jsonl,412,PMUL4776.json,6,book_hotel,find_restaurant,,,I would like to get some pricey food too.,Mình cũng muốn tìm một chỗ ăn sang trọng nữa.
+3_sai_domain,data_v1/train.jsonl,535,SSNG0199.json,2,find_restaurant,book_restaurant,,,Yes can you help me with a reservation for Monday night at 18:15?,Có chứ. Bạn giúp mình đặt chỗ vào tối thứ Hai lúc 18:15 được không?
+4_find_nhung_dang_dat,data_v1/train.jsonl,9,SNG0944.json,4,find_hotel,book_hotel,,,"No, the price range is flexible. I would like to book a room on Wednesday for 2 people, 2 nights.","Không, mức giá thế nào cũng được. Mình muốn đặt phòng vào thứ Tư cho 2 người, ở 2 đêm."
+4_find_nhung_dang_dat,data_v1/train.jsonl,93,MUL2288.json,4,find_train,book_train,,,"Yes, please make a booking for 1 person.","Có, bạn đặt giúp mình một vé cho 1 người nhé."
+4_find_nhung_dang_dat,data_v1/train.jsonl,115,PMUL1671.json,12,find_hotel,book_hotel,,,Please book me a room for 4 the same day at a cheap one you recommend. Thanks,Bạn đặt giúp mình một phòng cho 4 người trong cùng ngày đó ở một khách sạn giá rẻ mà bạn gợi ý nhé. Cảm ơn bạn.
+4_find_nhung_dang_dat,data_v1/train.jsonl,158,PMUL0366.json,18,find_hotel,book_hotel,,,"Yes, please make a reservation for 3 people.","Có, bạn đặt giúp mình cho 3 người nhé."
+4_find_nhung_dang_dat,data_v1/train.jsonl,360,PMUL1660.json,8,find_hotel,book_hotel,,,I want to book for 2 people and 3 nights starting Sunday.,"Mình muốn đặt phòng cho 2 người, ở 3 đêm, bắt đầu từ Chủ nhật."
+4_find_nhung_dang_dat,data_v1/train.jsonl,453,PMUL4180.json,2,find_hotel,book_hotel,,,Yes I would like to book that for 3 nights from Saturday for 7 people.,"Vâng, mình muốn đặt khách sạn đó 3 đêm từ thứ Bảy cho 7 người."
+4_find_nhung_dang_dat,data_v1/train.jsonl,457,SNG0485.json,4,find_restaurant,book_restaurant,,,I'm looking for meals under 30$ a person. I need to book for 3 at 16:15 on Wednesday.,Mình muốn tìm bữa ăn dưới 30$ một người. Mình cần đặt bàn cho 3 người lúc 16:15 vào thứ Tư.
+4_find_nhung_dang_dat,data_v1/train.jsonl,477,PMUL1690.json,16,find_hotel,book_hotel,,,Please book the hotel for 4 people and 2 nights. Thank you.,"Bạn đặt khách sạn cho 4 người, ở 2 đêm giúp mình nhé. Cảm ơn bạn."
+4_find_nhung_dang_dat,data_v1/train.jsonl,519,SNG0474.json,4,find_restaurant,book_restaurant,,,"Yes, please book a table for 6 on Thursday.","Có, bạn đặt giúp mình một bàn cho 6 người vào thứ Năm nhé."
+4_find_nhung_dang_dat,data_v1/train.jsonl,578,SSNG0020.json,4,find_restaurant,book_restaurant,,,"Yes, I'd like to book a table for seven at 19:15 on Tuesday.","Có, mình muốn đặt một bàn cho bảy người lúc 19:15 vào thứ Ba."
+4_find_nhung_dang_dat,data_v1/train.jsonl,586,PMUL3753.json,18,find_train,book_train,,,I would like to book for 7 people please.,Bạn đặt giúp mình 7 vé nhé.
+4_find_nhung_dang_dat,data_v1/train.jsonl,591,MUL0147.json,2,find_restaurant,book_restaurant,,,I don't mind an expensive restaurant so that will be fine. I would like to reserve a table for 3 on Sunday at 15:00.,Mình không ngại nhà hàng sang trọng nên chỗ đó được. Mình muốn đặt một bàn cho 3 người vào Chủ nhật lúc 15:00.
+4_find_nhung_dang_dat,data_v1/train.jsonl,628,PMUL4650.json,12,find_hotel,book_hotel,,,I am also looking for a hotel in the north with 4 stars and free parking. I would like to book for 2 nights starting sunday.,"Mình cũng đang tìm một khách sạn ở phía bắc, loại 4 sao và có chỗ đỗ xe miễn phí. Mình muốn đặt 2 đêm, bắt đầu từ Chủ nhật."
+4_find_nhung_dang_dat,data_v1/train.jsonl,634,SNG01176.json,8,find_train,book_train,,,"Yes, please. I booking for one person.","Có, bạn đặt giúp mình nhé. Mình đặt vé cho một người."
+4_find_nhung_dang_dat,data_v1/train.jsonl,692,SNG1176.json,4,find_hotel,book_hotel,,,"That sounds good. Yes, please book it for 2 nights starting on Tuesday.","Nghe được đấy. Vâng, bạn đặt giúp mình nhé, 2 đêm bắt đầu từ thứ Ba."
+4_find_nhung_dang_dat,data_v1/train.jsonl,720,PMUL1523.json,12,find_hotel,book_hotel,,,"Price doesn't matter. I need a reservation for 8 people, 3 nights starting Tuesday. If that day fails, the Sunday and the reference number.","Mức giá thì không quan trọng. Mình cần đặt chỗ cho 8 người, 3 đêm bắt đầu từ thứ Ba. Nếu ngày đó không được thì chuyển sang Chủ nhật, và cho mình xin mã đặt chỗ."
+4_find_nhung_dang_dat,data_v1/train.jsonl,744,SSNG0271.json,2,find_hotel,book_hotel,,,"I'd like to know it's address and phone number. I'd also like to book it for 6 people, Thursday, for 4 nights.","Mình muốn biết địa chỉ và số điện thoại của khách sạn này. Mình cũng muốn đặt phòng cho 6 người, vào thứ Năm, ở 4 đêm nhé."
+4_find_nhung_dang_dat,data_v1/train.jsonl,844,MUL0098.json,6,find_restaurant,book_restaurant,,,Could you book me a table for 1 at the Indian restaurant for 11:15? I would also like the reference number. Thank you!,Bạn đặt giúp mình một bàn cho 1 người tại nhà hàng món Ấn lúc 11:15 được không? Mình cũng muốn lấy mã đặt chỗ nữa. Cảm ơn bạn!
+4_find_nhung_dang_dat,data_v1/train.jsonl,961,SSNG0314.json,2,find_hotel,book_hotel,,,I am looking for the Warkworth House. I would like to book it starting Sunday for 3 nights for 2 people.,"Mình đang tìm Nhà nghỉ Thu Trúc. Mình muốn đặt từ Chủ nhật, ở 3 đêm cho 2 người."
+4_find_nhung_dang_dat,data_v1/train.jsonl,963,SNG02046.json,4,find_train,book_train,,,i want to book for three people. help me get the reference number too,Mình muốn đặt vé cho ba người. Bạn cũng giúp mình lấy mã đặt chỗ luôn nhé.
+4_find_nhung_dang_dat,data_v1/dev.jsonl,19,PMUL0596.json,8,find_restaurant,book_restaurant,,,"Yes, please book a table for 4 people at 16:15 on saturday.","Có, bạn đặt giúp mình một bàn cho 4 người lúc 16:15 vào thứ Bảy nhé."
+4_find_nhung_dang_dat,data_v1/dev.jsonl,43,PMUL4955.json,6,find_hotel,book_hotel,,,Yes I would. I need to book a room for Saturday for 4 nights.,"Có, mình muốn đặt. Mình cần đặt phòng vào thứ Bảy, ở 4 đêm."
+4_find_nhung_dang_dat,data_v1/dev.jsonl,77,MUL1500.json,8,find_restaurant,book_restaurant,,,Please book reservations for 1 and provide me with the reference number.,Bạn đặt giúp mình bàn cho 1 người và cho mình xin mã đặt chỗ nhé.
+4_find_nhung_dang_dat,data_v1/dev.jsonl,117,MUL0398.json,12,find_restaurant,book_restaurant,,,Yes please book it for 5 people,"Có, bạn đặt giúp mình bàn cho 5 người nhé."
+4_find_nhung_dang_dat,data_v1/test.jsonl,140,SNG0964.json,6,find_hotel,book_hotel,,,Please book for 4 people.,Bạn đặt cho 4 người nhé.
+4_find_nhung_dang_dat,data_v1/test.jsonl,141,SNG01262.json,4,find_hotel,book_hotel,,,It doesn't matter as long as I can book it for 2 people and 2 nights starting Thursday.,"Mình không quan trọng hạng sao, miễn là đặt được cho 2 người ở 2 đêm, bắt đầu từ thứ Năm."
+4_find_nhung_dang_dat,data_v1/test.jsonl,253,PMUL3723.json,8,find_restaurant,book_restaurant,,,"Any type of cuisine is fine with me. Can you book a table for us at your favorite? We'll need it at 11:30, before we take that train.","Món nào cũng được. Bạn đặt giúp bọn mình một bàn ở chỗ bạn thích nhất được không? Bọn mình cần đặt lúc 11:30, trước khi đi chuyến tàu đó."
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,8,MUL0661.json,12,book_hotel,find_hotel,,,Great thank you. What is the address for the Alpha-Milton?,"Tuyệt quá, cảm ơn bạn. Địa chỉ của Khách sạn Hồng Bắc là gì vậy?"
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,86,SNG0273.json,12,book_train,find_train,,,How long will be the ride and how much will it cost me?,Chuyến đi này mất bao lâu và mình phải trả bao nhiêu tiền vậy bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,114,SSNG0297.json,8,book_hotel,find_hotel,,,Do you have any hotels in the same price range as the Gonville Hotel?,Bạn có khách sạn nào cùng mức giá với Khách sạn Bình Lam không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,126,MUL2166.json,12,book_hotel,find_hotel,,,"Great, can I get the area for the hotel as well please. Just wonder what part of town it's in?","Tuyệt, bạn cho mình biết luôn khu vực của khách sạn được không? Mình muốn biết khách sạn nằm ở khu nào của thành phố?"
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,300,MUL2147.json,14,book_train,find_train,,,Thanks. That will be fine. Can I get a train ID?,Cảm ơn bạn. Vậy là ổn rồi. Cho mình xin mã số chuyến tàu được không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,350,SSNG0353.json,12,book_hotel,find_hotel,,,How about three stars?,Vậy 3 sao thì sao?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,350,SSNG0353.json,16,book_hotel,find_hotel,,,Did this have wifi?,Chỗ đó có Wi-Fi không bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,378,PMUL1567.json,12,book_train,find_train,,,"Not decided on the train yet, still have to consult the group, what is the price?","Mình chưa quyết định chọn chuyến tàu này, còn phải hỏi ý kiến cả nhóm đã. Bạn cho mình hỏi giá vé là bao nhiêu?"
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,422,SSNG0184.json,6,book_restaurant,find_restaurant,,,Can you find me something in the same price range?,Bạn có tìm giúp mình quán nào cùng mức giá được không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,502,SSNG0173.json,4,book_restaurant,find_restaurant,,,Is there a similar restaurant in the area at that price range?,Trong khu vực này có nhà hàng nào tương tự ở cùng mức giá đó không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,556,SSNG0099.json,6,book_restaurant,find_restaurant,,,Are there any other options in the expensive price range in the centre?,Ở khu trung tâm còn lựa chọn nào khác thuộc mức giá sang trọng không bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,611,SSNG0307.json,12,book_hotel,find_hotel,,,The amount of stars do not matter as long as it is in the same price range Does Worth House in the North include free parking?,"Số sao không quan trọng, miễn là cùng mức giá. Khách sạn Bích An ở phía bắc có chỗ đỗ xe miễn phí không?"
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,612,SSNG0122.json,6,book_restaurant,find_restaurant,,,Are there any other restaurants in the same area in the moderate price range?,Ở cùng khu vực đó còn nhà hàng nào có giá tầm trung nữa không bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,664,PMUL4387.json,24,book_restaurant,find_restaurant,,,Can you please provide me with the phone number and address to the Royal Spice restaurant?,Bạn cho mình xin số điện thoại và địa chỉ của Quán ăn Bombay Corner được không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,749,PMUL1926.json,12,book_hotel,find_hotel,,,I don't need a specific area. What do you recommend?,Mình không cần khu vực cụ thể nào. Bạn có gợi ý gì không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,749,PMUL1926.json,14,book_hotel,find_hotel,,,Does it have free wifi?,Khách sạn đó có Wi-Fi miễn phí không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,790,SSNG0242.json,6,book_hotel,find_hotel,,,"No, I don't care about the area, just the price. Recommend me one?","Không, mình không quan tâm khu vực, chỉ cần đúng mức giá thôi. Bạn gợi ý giúp mình một nơi được không?"
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,798,SNG0303.json,6,book_train,find_train,,,How much would the train ride cost me?,Đi chuyến tàu này mình sẽ phải trả bao nhiêu tiền vậy bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,900,MUL0753.json,10,book_hotel,find_hotel,,,Can you give me a price first?,Bạn cho mình biết giá trước được không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,939,MUL2156.json,14,book_hotel,find_hotel,,,Are there in hotels in the north with a 2 star rating?,Ở phía bắc có khách sạn nào xếp hạng 2 sao không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,939,MUL2156.json,22,book_hotel,find_hotel,,,Are there any cheap 0 star hotels in the north?,"Ở phía bắc có chỗ ở nào giá rẻ, 0 sao không?"
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,942,PMUL0019.json,12,book_hotel,find_hotel,,,Could you please give me the address and postcode?,Bạn cho mình xin địa chỉ và mã bưu chính được không?
+5_book_treo_khi_hoi_thong_tin,data_v1/train.jsonl,980,PMUL0801.json,16,book_train,find_train,,,How much does that cost?,Giá vé là bao nhiêu vậy bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/dev.jsonl,141,MUL2184.json,20,book_train,find_train,,,What is the price?,Giá vé là bao nhiêu vậy?
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,44,PMUL0109.json,4,book_restaurant,find_restaurant,,,What is the price range of this restaurant?,Nhà hàng này thuộc mức giá nào vậy bạn?
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,62,MUL2060.json,14,book_hotel,find_hotel,,,"Actually, let's back up. I need a place with a star rating of 0, in the centre, with free parking. Does the Alexander have 0 stars?","Thật ra thì mình muốn xem lại từ đầu. Mình cần một nơi được xếp hạng 0 sao, ở khu trung tâm, có chỗ đỗ xe miễn phí. Khách sạn Thu Hạc có phải là 0 sao không?"
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,107,PMUL0509.json,14,book_restaurant,find_restaurant,,,what is their phone number and address?,Bạn cho mình xin số điện thoại và địa chỉ của nhà hàng nhé?
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,130,MUL0072.json,6,book_hotel,find_hotel,,,Could i get the phone number?,Bạn cho mình xin số điện thoại được không?
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,130,MUL0072.json,8,book_hotel,find_hotel,,,That's fine. Can I please have the phone number?,Được rồi. Bạn cho mình xin số điện thoại nhé?
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,148,MUL1478.json,2,book_restaurant,find_restaurant,,,It doesn't matter to me which type of food they serve. What would you recommend for a person eating alone?,"Loại món nào cũng được, mình không quan tâm. Bạn có gợi ý nào cho một người đi ăn một mình không?"
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,161,MUL0374.json,14,book_restaurant,find_restaurant,,,"That won't be necessary, could you just provide me with their phone number and postcode please?","Không cần đâu bạn, bạn chỉ cần cho mình số điện thoại và mã bưu chính của nhà hàng thôi nhé?"
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,195,SNG01534.json,10,book_hotel,find_hotel,,,Let's back up a bit. Are there any 4-star guesthouses?,Mình quay lại một chút nhé. Có nhà nghỉ 4 sao nào không?
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,266,SNG0284.json,4,book_train,find_train,,,"I want to go to Cambridge, how much will that cost?","Mình muốn đi đến Hà Nội, bạn cho mình hỏi giá vé là bao nhiêu?"
+5_book_treo_khi_hoi_thong_tin,data_v1/test.jsonl,288,SNG0775.json,6,book_hotel,find_hotel,,,Can I have the address and phone number please?,Bạn cho mình xin địa chỉ và số điện thoại được không?
+6_khong_nhat_quan_trong_sua_nhan,data_v1/dev.jsonl,46,PMUL3735.json,10,book_hotel,find_hotel,430,Tìm lại trong lúc đặt; quy tắc mới là find_*,What is the cheaper place?,Vậy khách sạn nào rẻ hơn?
+6_khong_nhat_quan_trong_sua_nhan,data_v1/train.jsonl,274,MUL0023.json,22,book_hotel,find_hotel,454,Tìm lại trong lúc đặt; quy tắc mới là find_*,Did we not find any hotels in the expensive or moderate price range to accomodate 8 people for 4 nights starting Saturday?,"Vậy là chúng ta không tìm được nhà nghỉ nào thuộc phân khúc cao cấp hoặc giá tầm trung cho 8 người ở 4 đêm, bắt đầu từ thứ Bảy à?"
+6_khong_nhat_quan_trong_sua_nhan,data_v1/train.jsonl,939,MUL2156.json,18,book_hotel,find_hotel,647,Tìm lại trong lúc đặt; quy tắc mới là find_*,Can you search for one that is cheap in price then?,Vậy bạn tìm giúp mình chỗ nào giá rẻ được không?
+6_khong_nhat_quan_trong_sua_nhan,data_v1/train.jsonl,939,MUL2156.json,20,book_hotel,find_hotel,648,Tìm lại trong lúc đặt; quy tắc mới là find_*,I need something in the cheap price range with other restrictions retained.,"Mình cần một chỗ giá rẻ, các yêu cầu khác vẫn giữ nguyên."
+6_khong_nhat_quan_trong_sua_nhan,data_v1/test.jsonl,206,MUL1560.json,18,book_restaurant,find_restaurant,103,Tìm lại trong lúc đặt; quy tắc mới là find_*,"Yes, the expensive price range please.","Có, bạn cho mình mức giá sang trọng nhé."
+6_khong_nhat_quan_trong_sua_nhan,data_v1/train.jsonl,437,PMUL4584.json,18,book_restaurant,find_restaurant,1051,Tìm lại trong lúc đặt; quy tắc mới là find_*,I'm looking for an expensive restaurant in the east part of town.,Mình đang tìm một nhà hàng sang trọng ở phía đông thành phố.
+6_khong_nhat_quan_trong_sua_nhan,data_v1/train.jsonl,982,PMUL0044.json,0,find_hotel,find_hotel|find_restaurant,691,Cho nhất quán với các câu 'looking forward to try local restaurants',I'm traveling to Cambridge and looking forward to their restaurants. I need a place to stay while I'm there.,Mình sắp đến Hà Nội và rất mong được thưởng thức các nhà hàng ở đây. Mình cần tìm một chỗ ở trong thời gian ở đó.
+7_LOAI_mo_ho_can_doc_lai,data_v1/test.jsonl,22,MUL1596.json,2,LOAI,?,104,Đọc lại cả hội thoại để gán nhãn,"any price range please, need it for monday.","Mức giá nào cũng được, mình cần đặt cho thứ Hai."
+7_LOAI_mo_ho_can_doc_lai,data_v1/test.jsonl,74,PMUL0090.json,2,LOAI,?,164,Đọc lại cả hội thoại để gán nhãn,I do not have a specific area or price.,Mình không có yêu cầu cụ thể về khu vực hay mức giá.
+7_LOAI_mo_ho_can_doc_lai,data_v1/train.jsonl,126,MUL2166.json,6,LOAI,?,653,Đọc lại cả hội thoại để gán nhãn,Any day is fine after 7:45.,"Ngày nào cũng được, miễn là sau 7:45."
+7_LOAI_mo_ho_can_doc_lai,data_v1/train.jsonl,973,PMUL3299.json,12,LOAI,?,930,Đọc lại cả hội thoại để gán nhãn,"Could you book it for me, for Saturday?",Bạn đặt giúp mình chỗ đó vào thứ Bảy được không?
