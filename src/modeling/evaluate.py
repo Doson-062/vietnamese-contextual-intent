@@ -1,7 +1,27 @@
 """Tính chỉ số đánh giá. A, B, C cùng dùng hàm này để so sánh công bằng."""
+import re
+
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 
 from src.config import LABELS
+
+# ponytail: ước lượng bằng từ khóa domain; thay bằng phân loại dạng ngữ cảnh (tuần 8) khi có
+DOMAIN_KW = {"restaurant": r"nhà hàng|quán|món|ăn|bàn",
+             "hotel": r"khách sạn|nhà nghỉ|phòng|chỗ ở|ở lại|đêm|sao",
+             "train": r"tàu|chuyến|vé|ga|khởi hành|đến nơi"}
+
+
+def needs_context(text, label):
+    """Lượt có ý định nhưng câu không nhắc từ khóa nào của domain đó."""
+    return label != "NONE" and not re.search(DOMAIN_KW[label.split("_")[1]], text, re.I)
+
+
+def accuracy_by_context(texts, y_true, y_pred):
+    groups = {"co_nhac_domain": [], "can_ngu_canh": [], "NONE": []}
+    for t, y, p in zip(texts, y_true, y_pred):
+        g = "NONE" if y == "NONE" else ("can_ngu_canh" if needs_context(t, y) else "co_nhac_domain")
+        groups[g].append(y == p)
+    return {g: {"n": len(v), "accuracy": sum(v) / len(v)} for g, v in groups.items() if v}
 
 
 def evaluate(y_true, y_pred):
@@ -39,4 +59,6 @@ if __name__ == "__main__":
     m = evaluate(y, ["find_hotel", "find_hotel", "NONE", "NONE"])
     assert m["accuracy"] == 0.75 and m["per_label"]["NONE"]["f1"] == 1.0
     assert m["confusion"][LABELS.index("book_hotel")][LABELS.index("find_hotel")] == 1
+    assert needs_context("Có, bạn đặt giúp mình nhé", "book_hotel")
+    assert not needs_context("Mình cần một khách sạn rẻ", "find_hotel")
     print(format_report(m))
