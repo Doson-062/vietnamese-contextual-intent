@@ -1,0 +1,202 @@
+{
+ "config": "A: TF-IDF (1-2 gram) + Logistic Regression, k=0",
+ "best": {
+  "C": 2,
+  "class_weight": "balanced",
+  "dev_macro_f1": 0.8869236280177677,
+  "dev_accuracy": 0.9095149253731343
+ },
+ "grid": [
+  {
+   "C": 0.5,
+   "class_weight": null,
+   "dev_macro_f1": 0.8707636642058493,
+   "dev_accuracy": 0.9020522388059702
+  },
+  {
+   "C": 0.5,
+   "class_weight": "balanced",
+   "dev_macro_f1": 0.8814424140199246,
+   "dev_accuracy": 0.9048507462686567
+  },
+  {
+   "C": 1,
+   "class_weight": null,
+   "dev_macro_f1": 0.8821446723607007,
+   "dev_accuracy": 0.9067164179104478
+  },
+  {
+   "C": 1,
+   "class_weight": "balanced",
+   "dev_macro_f1": 0.8808088635611465,
+   "dev_accuracy": 0.9048507462686567
+  },
+  {
+   "C": 2,
+   "class_weight": null,
+   "dev_macro_f1": 0.8761828006257452,
+   "dev_accuracy": 0.9020522388059702
+  },
+  {
+   "C": 2,
+   "class_weight": "balanced",
+   "dev_macro_f1": 0.8869236280177677,
+   "dev_accuracy": 0.9095149253731343
+  },
+  {
+   "C": 5,
+   "class_weight": null,
+   "dev_macro_f1": 0.8721362685108816,
+   "dev_accuracy": 0.9020522388059702
+  },
+  {
+   "C": 5,
+   "class_weight": "balanced",
+   "dev_macro_f1": 0.8788357301401055,
+   "dev_accuracy": 0.9039179104477612
+  },
+  {
+   "C": 10,
+   "class_weight": null,
+   "dev_macro_f1": 0.8704173673153771,
+   "dev_accuracy": 0.9001865671641791
+  },
+  {
+   "C": 10,
+   "class_weight": "balanced",
+   "dev_macro_f1": 0.8771759235931185,
+   "dev_accuracy": 0.9039179104477612
+  },
+  {
+   "C": 20,
+   "class_weight": null,
+   "dev_macro_f1": 0.8644891522453809,
+   "dev_accuracy": 0.8973880597014925
+  },
+  {
+   "C": 20,
+   "class_weight": "balanced",
+   "dev_macro_f1": 0.8755659847672551,
+   "dev_accuracy": 0.9039179104477612
+  }
+ ],
+ "n_train": 6484,
+ "n_dev": 1072,
+ "test": {
+  "n": 2456,
+  "accuracy": 0.9136807817589576,
+  "macro_precision": 0.8790911089016958,
+  "macro_recall": 0.8915866460438674,
+  "macro_f1": 0.884907441400115,
+  "weighted_f1": 0.9142123287906097,
+  "per_label": {
+   "find_restaurant": {
+    "precision": 0.8910411622276029,
+    "recall": 0.9064039408866995,
+    "f1": 0.8986568986568987,
+    "support": 406
+   },
+   "book_restaurant": {
+    "precision": 0.8114285714285714,
+    "recall": 0.8711656441717791,
+    "f1": 0.8402366863905325,
+    "support": 163
+   },
+   "find_hotel": {
+    "precision": 0.9240246406570842,
+    "recall": 0.8858267716535433,
+    "f1": 0.9045226130653267,
+    "support": 508
+   },
+   "book_hotel": {
+    "precision": 0.8268156424581006,
+    "recall": 0.8222222222222222,
+    "f1": 0.8245125348189415,
+    "support": 180
+   },
+   "find_train": {
+    "precision": 0.9744816586921851,
+    "recall": 0.953198127925117,
+    "f1": 0.9637223974763407,
+    "support": 641
+   },
+   "book_train": {
+    "precision": 0.756578947368421,
+    "recall": 0.8214285714285714,
+    "f1": 0.7876712328767124,
+    "support": 140
+   },
+   "NONE": {
+    "precision": 0.9692671394799054,
+    "recall": 0.9808612440191388,
+    "f1": 0.9750297265160524,
+    "support": 418
+   }
+  },
+  "confusion": [
+   [
+    368,
+    18,
+    16,
+    1,
+    0,
+    0,
+    3
+   ],
+   [
+    9,
+    142,
+    1,
+    5,
+    1,
+    4,
+    1
+   ],
+   [
+    32,
+    2,
+    450,
+    20,
+    1,
+    1,
+    2
+   ],
+   [
+    0,
+    6,
+    16,
+    148,
+    1,
+    9,
+    0
+   ],
+   [
+    4,
+    2,
+    2,
+    1,
+    611,
+    20,
+    1
+   ],
+   [
+    0,
+    4,
+    0,
+    2,
+    13,
+    115,
+    6
+   ],
+   [
+    0,
+    1,
+    2,
+    2,
+    0,
+    3,
+    410
+   ]
+  ]
+ }
+}

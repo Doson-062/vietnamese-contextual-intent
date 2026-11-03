@@ -1,0 +1,37 @@
+CẤU HÌNH A — TF-IDF (1-2 gram) + Logistic Regression, chỉ câu hiện tại
+Mẫu: train 6484 / dev 1072 / test 2456 (đã bỏ LOAI và đa nhãn)
+Tham số chọn trên dev: C=2, class_weight=balanced (dev macro-F1 0.8869)
+
+=== KẾT QUẢ TRÊN TEST ===
+Số mẫu: 2456
+Accuracy: 0.9137
+Macro    P / R / F1: 0.8791 / 0.8916 / 0.8849
+Weighted F1: 0.9142
+
+Nhãn                    P       R      F1   Số mẫu
+find_restaurant    0.8910  0.9064  0.8987      406
+book_restaurant    0.8114  0.8712  0.8402      163
+find_hotel         0.9240  0.8858  0.9045      508
+book_hotel         0.8268  0.8222  0.8245      180
+find_train         0.9745  0.9532  0.9637      641
+book_train         0.7566  0.8214  0.7877      140
+NONE               0.9693  0.9809  0.9750      418
+
+Ma trận nhầm lẫn (hàng = nhãn đúng, cột = nhãn đoán):
+            find_res  book_res  find_hot  book_hot  find_tra  book_tra      NONE
+find_res         368        18        16         1         0         0         3
+book_res           9       142         1         5         1         4         1
+find_hot          32         2       450        20         1         1         2
+book_hot           0         6        16       148         1         9         0
+find_tra           4         2         2         1       611        20         1
+book_tra           0         4         0         2        13       115         6
+NONE               0         1         2         2         0         3       410
+
+=== Từ/cụm từ quyết định nhất cho mỗi nhãn ===
+find_restaurant  món, nhà hàng, hàng, nhà, ăn, quán, một nhà, khu
+book_restaurant  bàn, lúc, 00, bàn cho, đặt bàn, 15, đặt, 45
+find_hotel       khách sạn, sạn, khách, ở, sao, nghỉ, chỗ ở, nhà nghỉ
+book_hotel       đêm, phòng, đặt, đặt phòng, mình khách, 3, sạn đó, khách sạn
+find_train       tàu, chuyến, đi, đến, vé, trước, chuyến tàu, đến nơi
+book_train       vé, chuyến, chuyến đó, đặt, bạn đặt, đặt giúp, mình chuyến, cho
+NONE             cảm, ơn, cảm ơn, ơn bạn, đã, vậy thôi, tạm, tạm biệt

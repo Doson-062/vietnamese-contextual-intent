@@ -20,12 +20,15 @@ data/**
 !data/processed_v3/*.jsonl
 !data/processed_v5/**
 
-# Mô hình và kết quả sinh ra (chạy lại code là có)
+# Mô hình và kết quả sinh ra (chạy lại code là có); riêng bảng kết quả dạng chữ thì đưa lên để xem được
 models/*
 !models/.gitkeep
 reports/**
 !reports/**/
 !reports/figures/.gitkeep
+!reports/*/report.txt
+!reports/*/metrics.json
+!reports/*/results.json
 
 # Python / Jupyter
 __pycache__/
