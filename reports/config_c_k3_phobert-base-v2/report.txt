@@ -1,0 +1,31 @@
+config_c_k3_phobert-base-v2: {'backbone': 'vinai/phobert-base-v2', 'k': 3, 'segment': True, 'seeds': [42, 43, 44], 'epochs': 5, 'lr': 2e-05, 'batch': 32, 'max_len': 256}
+
+accuracy        0.9634 ± 0.0027
+macro_f1        0.9473 ± 0.0041
+co_nhac_domain  0.9609 ± 0.0023
+can_ngu_canh    0.9562 ± 0.0077
+
+=== Chi tiết seed 42 ===
+Số mẫu: 2456
+Accuracy: 0.9658
+Macro    P / R / F1: 0.9528 / 0.9500 / 0.9512
+Weighted F1: 0.9657
+
+Nhãn                    P       R      F1   Số mẫu
+find_restaurant    0.9779  0.9803  0.9791      406
+book_restaurant    0.9506  0.9448  0.9477      163
+find_hotel         0.9783  0.9764  0.9774      509
+book_hotel         0.9091  0.9497  0.9290      179
+find_train         0.9720  0.9750  0.9735      641
+book_train         0.9008  0.8429  0.8708      140
+NONE               0.9809  0.9809  0.9809      418
+
+Ma trận nhầm lẫn (hàng = nhãn đúng, cột = nhãn đoán):
+            find_res  book_res  find_hot  book_hot  find_tra  book_tra      NONE
+find_res         398         7         0         0         0         0         1
+book_res           7       154         0         0         0         0         2
+find_hot           1         0       497        11         0         0         0
+book_hot           0         0         9       170         0         0         0
+find_tra           0         0         1         1       625        13         1
+book_tra           0         0         0         0        18       118         4
+NONE               1         1         1         5         0         0       410
